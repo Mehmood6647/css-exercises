@@ -1,4 +1,4 @@
-/*Styling class element number 1*/
+/*Styling both classes #1 and 5 using same class tag*/
 
 .cls-num1-2 {
     font-family: Verdana, "DejaVu Sans", sans-serif;
@@ -12,7 +12,8 @@
     font-size: 36px;
 }
 
-/* Styling class element number 2 */
+/* Styling class element number 2 and the cool thing with this one is that it's using backgroung color and font style from
+cls-num1-2 using classes magic. */
 
 .cls-num3 {
     font-size: 24px;
@@ -25,5 +26,3 @@
     font-weight: bold;
     background-color: lightgreen;
 }
-
-/* Styling class element number 3*/
