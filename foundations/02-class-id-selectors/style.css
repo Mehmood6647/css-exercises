@@ -1,0 +1,31 @@
+/*Styling class element number 1*/
+
+.cls-num1-2 {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 160, 160);
+}
+
+/* Styling ID element number 1*/
+
+#IDnum-1 {
+    color: blue;
+    font-size: 36px;
+}
+
+/* Styling class element number 2 */
+
+.cls-num3 {
+    font-size: 24px;
+    background-color: rgb(255, 160, 160);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* Styling ID element number 2*/
+
+#IDnum-2 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
+
+/* Styling class element number 3*/
