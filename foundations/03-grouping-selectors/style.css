@@ -1,0 +1,18 @@
+/* Using grouping selector to apply similar styles to both elements */
+
+.btn-1,
+.btn-2 {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+/* Now adding seperate styles to btn-1 and btn-2*/
+
+.btn-1{
+    color: white;
+    background-color: black;
+}
+
+.btn-2{
+    background-color: yellow;
+}
